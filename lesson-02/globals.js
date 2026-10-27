@@ -1,0 +1,7 @@
+console.log("Window: ",typeof window)
+console.log("Document: ",typeof document)
+console.log("LocalStorage: ",typeof localStorage)
+console.log("Process: ",typeof process)
+console.log("GlobalThis: ",typeof globalThis)
+console.log("Fetch: ",typeof fetch)
+console.log("SetTimeout: ",typeof setTimeout)
