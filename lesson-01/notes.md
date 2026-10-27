@@ -11,4 +11,3 @@ Frontend: steps 1, 2 and 6. Backend: steps 3 to 5.
 
 Data lives in a database because server memory is wiped on restart and
 isn't shared between several copies of the server.
-                            
